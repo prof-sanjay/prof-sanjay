@@ -67,22 +67,22 @@
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,typescript"/>
 </p>
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs"/>
 </p>
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,neo4j"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
 ### AI / ML
@@ -90,12 +90,6 @@
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"/>
 </p>
 
-### Cloud & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=aws,git,npm"/>
-</p>
-
----
 
 # GitHub Analytics
 
@@ -120,15 +114,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prof-sanjay&theme=tokyo-night"/>
 
 ---
-
-# Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/prof-sanjay/prof-sanjay/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-<p align="center">
-<i>Building solutions through AI, Cloud Computing, and Full Stack Development</i>
-</p>
