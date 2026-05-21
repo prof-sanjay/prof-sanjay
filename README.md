@@ -3,7 +3,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Full+Stack+Developer;Cloud+Computing+Explorer;AI+Research+Learner"/>
 </p>
----
 
 # About Me
 
